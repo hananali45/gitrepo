@@ -6,3 +6,9 @@ print("result is " + str(result))
 # pushing 2nd time on github repo
 # made changes from hananali0311
 # making changes from hananli0311 2nd time
+
+def addTwoNumbers(num1: int, num2: int) -> int:
+    return num1 + num2
+
+
+addTwoNumbers(2,3)
