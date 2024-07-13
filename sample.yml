@@ -1,0 +1,12 @@
+name: Asif
+age: 20
+status: on
+weight: 30
+
+numbers: [1, 2, 3, 4, 5]
+
+server:
+  port: 8080
+  hostname: example
+  database: localdb
+  status: on
