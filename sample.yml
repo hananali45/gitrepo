@@ -1,0 +1,11 @@
+# Sample YAML Code
+Name: Hanan Ali
+Age: 35
+Height : 5.7
+Weight : 80
+message : "hello world"
+food:
+  - mango 
+  - apple
+  - grapes
+
